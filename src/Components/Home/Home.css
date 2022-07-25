@@ -1,0 +1,107 @@
+.Img1 {
+    margin-top: 5px;
+    margin-left: 1200px;
+    width: 700px;
+    height: 700px;
+}
+.Img2 {
+    margin-top: -270px;
+    margin-left: 20px;
+    width:400px;
+    height: 400px;
+}
+.textTitle {
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -710px;
+    margin-left: 20px;
+    color: #7F5283;
+}
+.card {
+    width: 670px;
+    height: 500px;
+    margin-left:450px ;
+  
+    margin-top: -60px;
+    text-align: center;
+   
+    border: white;
+    box-shadow:  0px 19px 60px rgb(0 0 0 / 8%);
+    border-radius: 10px;
+    
+  }
+  .textSai {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 60px;
+  }
+  .textAu {
+    font-size: 20px;
+    font-family: fantasy;
+    padding-left: 260px;
+    padding-top: 20px;
+
+  }
+
+  .textLogin {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-top: -730px;
+   margin-left: 1700px;
+  }
+
+  .btn {
+    
+        background: linear-gradient(180deg, #E8A0BF 26.71%, #FCC5C0 99.36%);
+      
+       border: white;
+       
+       border-radius: 10px;
+        color: white;
+        width: 260px;
+        height: 70px;
+       font-weight:900;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 16px;
+        margin-top: 60px;
+       
+      
+    
+  }
+  
+  .btn:hover {
+    background: white;
+    cursor: pointer;
+    border: 1px solid var(--orange);
+    color: var(--orange);
+  }
+
+
+
+  .btnn {
+    
+    background: linear-gradient(180deg, #E8A0BF 26.71%, #FCC5C0 99.36%);
+  
+   border: white;
+   
+   border-radius: 50px;
+    color: white;
+    width: 160px;
+    height: 50px;
+   font-weight:900;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+margin-top: 20px;
+margin-left: 1700px;
+position: absolute;
+   
+  
+
+}
+
+.btnn:hover {
+background: white;
+cursor: pointer;
+border: 1px solid var(--orange);
+color: var(--orange);
+}
